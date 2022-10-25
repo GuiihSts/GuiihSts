@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 
 
 <div>
--  Cursando Sistemas de Informação 📚 <br>
--  Conclusão 12/2024
+-  Cursando Sistemas de Informação 📚 -  Conclusão prevista: 12/2024.<br>
 -  Desenvolvedor Front End. <br>
 -  Procurando Oportunidade de Estagio. <br><br>
 
