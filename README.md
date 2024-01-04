@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <div>
 -  Cursando Sistemas de Informação 📚 -  Conclusão prevista: 12/2024.<br>
--  Desenvolvedor Front End. <br>
+-  Me desenvolvedendo em Front End. <br>
 -  Procurando Oportunidade de Estagio. <br><br>
 
   Adquirindo conhecimento em ⤵ <br>
